@@ -1,10 +1,6 @@
 # Maximize-Profit
 > A deep learning model for predicting whether a given customer who registers in bank will stay or leave taken over a certain period
 > Artificial Neural Networks were utilized to make the model more precise and accurate
-![Project Image](project-image-url)
-
-
-
 ---
 
 ### Table of Contents
@@ -13,14 +9,19 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
+- [Contact-info](#author-info)
 
 ---
 
-## Description
+## Description 
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Initially I imported the following libraries:<br>
+1.Numpy<br>
+2.Pandas<br>
+3.Tensorflow<br>
+Then the data to be utilized was pre-processed in data preprocessing step<br>
+<img width="934" alt="1" src="https://user-images.githubusercontent.com/88343647/224535868-804b2fa2-d585-4fea-a4ee-65bdd41964f9.png"><br><br><br>
+
 
 #### Technologies
 
