@@ -1,5 +1,5 @@
 # Maximize-Profit
-> A deep learning model for predicting whether a given customer who registers in bank will stay or leave taken over a certain period
+> A deep learning model for predicting whether a given customer who registers in bank will stay or leave taken over a certain period.
 > Artificial Neural Networks were utilized to make the model more precise and accurate.
 ---
 
